@@ -30,8 +30,7 @@ int main(void)
     }
   }
   printf("\nPreencha a matriz 2:\n"); // para preencher o valor da matriz 2
-  for (int i = 0; i < linhas; i++)
-  {
+  for (int i = 0; i < linhas; i++){
     for (int j = 0; j < colunas; j++)
     {
       printf("Digite o numero [%d,%d]:", i + 1, j + 1);
