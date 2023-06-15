@@ -17,8 +17,7 @@ int main()
 
     if (humano < 0 || humano > 4)
     {
-    }
-
+    }    
     // Gera um numero aleatorio
     for (i = 0; i < 1; i++)
     {
