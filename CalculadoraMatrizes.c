@@ -6,7 +6,7 @@
 
 int main(void)
 {
-  setlocale(LC_ALL, "Portuguese");
+  setlocale(LC_ALL, "Portuguese"); 
 
   int matriz1[linhas][colunas];
   int matriz2[linhas][colunas];
