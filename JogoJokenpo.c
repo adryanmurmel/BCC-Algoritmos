@@ -6,7 +6,7 @@ int main()
     int humano, computador, i;
 
     printf("****Jogo pedra, papel, tesoura, lagarto e Spock*****\n");
-    printf("Humano escolha a sua jogada:\n");
+    printf("Humano escolha a sua jogada:\n");// escolher jogada
     printf("0 -> Pedra\n");
     printf("1 -> Papel\n");
     printf("2 -> Tesoura\n");
