@@ -5,7 +5,7 @@ int AandB(int, int);
 int AorB(int, int);
 int IfAThenB(int, int);
 int AEqualToB(int, int);
-
+ 
 int main()
 {
   /*Not A/Not B*/
