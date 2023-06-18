@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+
 int Not(int);
 int AandB(int, int);
 int AorB(int, int);
