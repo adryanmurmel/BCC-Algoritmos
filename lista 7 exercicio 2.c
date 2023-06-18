@@ -8,7 +8,7 @@ void identificador(int diametro)
     }
     else if (diametro <= 3000)
     {
-        printf("Lua ou Planeta Anao\n");
+        printf("Lua ou Planeta Anao\n"); 
     }
     else if (diametro <= 120000)
     {
