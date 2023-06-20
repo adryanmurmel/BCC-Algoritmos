@@ -5,7 +5,7 @@ int main(void)
 {
 
   int *p;                     // ponteiro de inteiro p
-  int a[5] = {0, 2, 4, 6, 8}; // vetor de tamanho
+  int a[5] = {0, 2, 4, 6, 8}; // vetor de tamanho 
 
   setlocale(LC_ALL, "Portuguese");
   printf("\n>> PONTEIRO E VETOR\n");
