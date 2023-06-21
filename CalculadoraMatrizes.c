@@ -21,9 +21,9 @@ int main(void)
   printf("\n\nMATRIZ DE INTEIROS: tamanho %d x %d\n", linhas, colunas);
 
   printf("\nPreencha a matriz 1:\n"); // para preencher a matriz 1
-  for (int i = 0; i < linhas; i++)    // percorrer linhas
+  for (int i = 0; i < linhas; i++)    // para percorrer linhas
   {
-    for (int j = 0; j < colunas; j++) // percorrer colunas
+    for (int j = 0; j < colunas; j++) // para percorrer colunas
     {
       printf("Digite o numero [%d,%d]:", i + 1, j + 1); // imprimir
       scanf("%d%*c", &matriz1[i][j]);
