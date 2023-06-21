@@ -14,7 +14,7 @@ int main(void)
   int matrizSub[linhas][colunas];
   int matrizMult[linhas][colunas];
   int matrizTrans[linhas][colunas];
-
+  
   int loop = 1;
   int Sel;
 
