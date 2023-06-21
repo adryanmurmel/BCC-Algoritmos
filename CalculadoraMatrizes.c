@@ -28,7 +28,7 @@ int main(void)
       printf("Digite o numero [%d,%d]:", i + 1, j + 1); // imprimir
       scanf("%d%*c", &matriz1[i][j]);
     }
-  }
+  } 
   printf("\nPreencha a matriz 2:\n"); // para preencher o valor da matriz 2
   for (int i = 0; i < linhas; i++){
     for (int j = 0; j < colunas; j++)
