@@ -5,7 +5,7 @@
 #include <locale.h>
 
 int main(void)
-{ 
+{
   setlocale(LC_ALL, "Portuguese"); 
   
   int matriz1[linhas][colunas];
@@ -17,7 +17,7 @@ int main(void)
   
   int loop = 1;
   int Sel;
-
+ 
   printf("\n\nMATRIZ DE INTEIROS: tamanho %d x %d\n", linhas, colunas);
 
   printf("\nPreencha a matriz 1:\n"); // para preencher a matriz 1
