@@ -1,5 +1,5 @@
 #define colunas 2
-#define linhas 2
+#define linhas 2 
 
 #include <stdio.h>
 #include <locale.h>
