@@ -1,10 +1,10 @@
 #define colunas 2
-#define linhas 2 
+#define linhas 2
 
 #include <stdio.h>
 #include <locale.h>
 
-int main(void) 
+int main(void)
 { 
   setlocale(LC_ALL, "Portuguese"); 
  
