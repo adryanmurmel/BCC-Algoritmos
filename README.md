@@ -1,2 +1,2 @@
 # BCC-Algoritmos
-Exercícios feitos na matéria de Algoritmos
+Exercícios feitos na matéria de Algoritmos.
