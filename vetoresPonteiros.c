@@ -1,7 +1,7 @@
 #include <stdio.h> 
 #include <locale.h>
  
-int main(void)
+int main(void) 
 {
 
   int *p;                     // ponteiro de inteiro p
