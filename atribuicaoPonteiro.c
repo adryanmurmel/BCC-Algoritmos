@@ -7,7 +7,7 @@ int main(void)
   int v = 0;
   int *p1, *p2; // declara os apontadores para inteiro
 
-  setlocale(LC_ALL, "Portuguese");
+  setlocale(LC_ALL, "Portuguese"); 
   printf("\n>> PONTEIROS\n");
 
   printf("\nDigite um numero: ");
