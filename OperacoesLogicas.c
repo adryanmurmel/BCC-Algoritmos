@@ -6,7 +6,7 @@ int AorB(int, int);
 int IfAThenB(int, int);
 int AEqualToB(int, int);
  
-int main()
+int main() 
 {
   /*Not A/Not B*/
   printf("\n\n|A|B|!A|!B|\n");
