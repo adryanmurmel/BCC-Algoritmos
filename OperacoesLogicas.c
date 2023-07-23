@@ -10,7 +10,7 @@ int main()
 {
   /*Not A/Not B*/
   printf("\n\n|A|B|!A|!B|\n");
-  printf("|0|0| %d| %d|\n", Not(0), Not(0));
+  printf("|0|0| %d| %d|\n", Not(0), Not(0)); 
   printf("|0|1| %d| %d|\n", Not(0), Not(1));
   printf("|1|0| %d| %d|\n", Not(1), Not(0));
   printf("|1|1| %d| %d|\n\n", Not(1), Not(1));
