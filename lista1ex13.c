@@ -9,6 +9,7 @@ int main(void) {
   printf("Insira 3 numeros: \n");
   scanf("%d", &num);
 
+  //terminar
   
   
   return 0;
