@@ -1,7 +1,7 @@
 /*Faça um programa para ler um valor (que represente o lado de um quadrado)
  * calcular e mostrar a respectiva área do quadrado.*/
 
-#include <stdio.h>
+#include <stdio.h> 
 
 int main(void) {
   int lado, area;
