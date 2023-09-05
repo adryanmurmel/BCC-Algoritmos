@@ -6,7 +6,7 @@ void mult(int a, int b);
 void divide(int a, int b);
 
 int main() {
-    int operacao, n1, n2;
+    int operacao, n1, n2; 
 
     printf("\nInsira dois numeros: ");
     scanf("%d %d", &n1, &n2);
