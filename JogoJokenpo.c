@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main()
-{ 
+{
     int humano, computador, i; 
 
     printf("****Jogo pedra, papel, tesoura, lagarto e Spock*****\n");
