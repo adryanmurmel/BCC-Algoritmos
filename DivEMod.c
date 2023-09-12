@@ -5,7 +5,7 @@
 
 int main(void) {
   int valor1, valor2, resp_div, resp_mod, resultado;
-  
+
   printf("Insira o primeiro numero: ");
   scanf("%d", &valor1);
   printf("\nInsira o segundo numero: ");
