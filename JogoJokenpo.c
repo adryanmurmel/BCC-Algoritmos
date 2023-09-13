@@ -3,7 +3,7 @@
 
 int main() 
 {
-    int humano, computador, i; 
+    int humano, computador, i;
 
     printf("****Jogo pedra, papel, tesoura, lagarto e Spock*****\n");
     printf("Humano escolha a sua jogada:\n");// escolher jogada
