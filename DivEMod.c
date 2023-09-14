@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-int main(void) {
+int main(void) { 
   int valor1, valor2, resp_div, resp_mod, resultado;
 
   printf("Insira o primeiro numero: ");
