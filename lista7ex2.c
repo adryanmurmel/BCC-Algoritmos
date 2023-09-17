@@ -1,7 +1,7 @@
 #include <stdio.h>
  
 void identificador(int diametro)
-{ 
+{
     if (diametro <= 100)
     {
         printf("Meteoro ou Asteroide\n");
