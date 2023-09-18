@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> 
 
 void soma(int a, int b);
 void sub(int a, int b);
