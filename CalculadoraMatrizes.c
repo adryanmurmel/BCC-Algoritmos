@@ -2,7 +2,7 @@
 #define linhas 2
  
 #include <stdio.h> 
-#include <locale.h>
+#include <locale.h> 
  
 int main(void) 
 {
