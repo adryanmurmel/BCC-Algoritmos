@@ -3,7 +3,7 @@
 void soma(int a, int b);
 void sub(int a, int b);
 void mult(int a, int b);
-void divide(int a, int b);
+void divide(int a, int b); 
 
 int main() { 
     int operacao, n1, n2; 
