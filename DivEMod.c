@@ -1,7 +1,7 @@
 //div é resultado inteiro de uma divisao (/)
 //Mod é Valor restante de uma divisao inteira(%)
 
-#include <stdio.h> 
+#include <stdio.h>
 
 int main(void) {
   int valor1, valor2, resp_div, resp_mod, resultado;
