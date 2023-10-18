@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 //-------------------------------------------------
-void SOMAR(float n1, float n2)
+void SOMAR(float n1, float n2) 
 {
   printf("%lf + %lf = %.2lf\n", n1, n2, n1 + n2);
 }
