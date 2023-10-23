@@ -5,7 +5,7 @@ void sub(int a, int b);
 void mult(int a, int b); 
 void divide(int a, int b);
 
-int main() {
+int main() { 
     int operacao, n1, n2; 
 
     printf("\nInsira dois numeros: ");
