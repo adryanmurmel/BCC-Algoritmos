@@ -4,7 +4,7 @@ VET_A e VET_B e junte o conteúdo do VET_B no VET_A.
 Implemente uma função para descobrir o tamanho da string.
 Esta função deverá retornar o tamanho*/
 
-#include <stdio.h>
+#include <stdio.h> 
 #include <string.h>
 #include <stdlib.h>
 
